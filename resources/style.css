@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+  }
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50;
+    color: white;
+    padding: 25px;
+   
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
