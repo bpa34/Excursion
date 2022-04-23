@@ -33,3 +33,35 @@ span {
     font-size: 21px;
     color: grey;
 }
+
+img {
+    padding-top: 15px;
+}
+photo {
+    display: flex;
+    justify-content: center;
+}
+
+#tent_photo {
+    align-content: center;
+}
+#phone_icon {
+    padding-top: 20px;
+    display: block;
+    align-self: center !important;
+}
+
+#cta2 {
+    padding-bottom: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: right;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+
+#copyright {
+    font-size: 21px;
+}
