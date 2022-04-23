@@ -18,3 +18,7 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+
+video {
+    padding-top: 25px;
+}
